@@ -5,7 +5,7 @@ Todo App using plain JS | HTML | CSS
 Clone the repository. Following instructions will get you the project up and running on your local machine for development and testing purposes. 
 
 ```
-  - cs todoApp
+  - cd todoApp
   - Run index.html in browser
 ```
 
